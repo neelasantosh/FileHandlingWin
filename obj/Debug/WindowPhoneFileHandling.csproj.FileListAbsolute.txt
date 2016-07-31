@@ -1,0 +1,12 @@
+D:\Windows Phone Projects\WindowPhoneFileHandling\Bin\Debug\ApplicationIcon.png
+D:\Windows Phone Projects\WindowPhoneFileHandling\Bin\Debug\Background.png
+D:\Windows Phone Projects\WindowPhoneFileHandling\Bin\Debug\WindowPhoneFileHandling.dll
+D:\Windows Phone Projects\WindowPhoneFileHandling\Bin\Debug\WindowPhoneFileHandling.pdb
+D:\Windows Phone Projects\WindowPhoneFileHandling\Bin\Debug\AppManifest.xaml
+D:\Windows Phone Projects\WindowPhoneFileHandling\Bin\Debug\WindowPhoneFileHandling.xap
+D:\Windows Phone Projects\WindowPhoneFileHandling\obj\Debug\App.g.i.cs
+D:\Windows Phone Projects\WindowPhoneFileHandling\obj\Debug\MainPage.g.i.cs
+D:\Windows Phone Projects\WindowPhoneFileHandling\obj\Debug\WindowPhoneFileHandling.g.resources
+D:\Windows Phone Projects\WindowPhoneFileHandling\obj\Debug\WindowPhoneFileHandling.dll
+D:\Windows Phone Projects\WindowPhoneFileHandling\obj\Debug\WindowPhoneFileHandling.pdb
+D:\Windows Phone Projects\WindowPhoneFileHandling\obj\Debug\XapCacheFile.xml
